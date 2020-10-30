@@ -1,0 +1,47 @@
+.product {
+    border: 1px solid #ccc;
+    padding: 30px 0 0;
+    box-shadow: 1px 1px #ccc;
+}
+
+.header_row {
+    margin: 50px 0 25px;
+}
+
+
+.product_row--middle {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding: 40px 0;
+}
+
+
+.checkout_shipping {
+    border: 1px solid #ccc;
+    padding: 8px 15px;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #f2f2f2;
+}
+
+.checkout_details {
+    border: 1px solid #ccc;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.checkout_row--top {
+    padding: 15px 15px;
+    background-color: #f2f2f2;
+}
+
+.checkout_row {
+    padding: 15px 25px;
+}
+
+.checkout_row--middle {
+    border-bottom: 1px solid #ccc;
+}
